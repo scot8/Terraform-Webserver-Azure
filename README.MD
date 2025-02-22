@@ -1,9 +1,3 @@
-Sure, here is the updated README.md file for your **Terraform Azure Web Server Deployment** project:
-
----
-
-### 📜 **README.md**
-```md
 # Terraform Azure Web Server Deployment
 
 ## 🚀 Project Overview
